@@ -7,7 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-
+- [Demo](#demo)
 ## Introduction
 TaskManabu is a web-based application designed to help users manage their tasks efficiently. This application provides a simple yet powerful interface to create, track, and complete tasks, enhancing productivity and organization.
 
@@ -80,7 +80,7 @@ python manage.py test
 Thank you for checking out TaskManabu! Happy task managing!
 
 
-DEMO:
+## DEMO:
 
 Home page:
 ![Home page](https://github.com/user-attachments/assets/29b7b5f7-5992-40d9-96a5-08b83833d283)
