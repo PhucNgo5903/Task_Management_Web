@@ -81,6 +81,7 @@ Thank you for checking out TaskManabu! Happy task managing!
 
 
 DEMO:
+
 Home page:
 ![Home page](https://github.com/user-attachments/assets/29b7b5f7-5992-40d9-96a5-08b83833d283)
 
@@ -93,7 +94,7 @@ Login page
 Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/118a73ee-872b-45cc-a503-adc47feb62ba)
 
-Profile managment
+Profile management
 ![Profile managment](https://github.com/user-attachments/assets/f98f1ad9-6c51-4dce-9b07-e216173e8064)
 
 Create task
