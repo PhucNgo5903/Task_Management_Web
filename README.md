@@ -39,21 +39,33 @@ Follow these steps to get a local copy of the project up and running:
     ```
 
 3. **Install the required packages:**
-    ```bash
+   ```bash
+    pip install django
+   ```
+   ```bash
     pip install django-crispy-forms
     ```
-
-4. **Run database migrations:**
+   ```bash
+    pip install django-crispy-forms
+   ```
+   ```bash
+    pip install crispy-bootstrap4
+   ```
+   ```bash
+    pip install Pillow
+   ```
+   
+5. **Run database migrations:**
     ```bash
     python manage.py migrate
     ```
 
-5. **Create a superuser:**
+6. **Create a superuser:**
     ```bash
     python manage.py createsuperuser
     ```
 
-6. **Start the development server:**
+7. **Start the development server:**
     ```bash
     python manage.py runserver
     ```
