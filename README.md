@@ -44,9 +44,6 @@ Follow these steps to get a local copy of the project up and running:
    ```
    ```bash
     pip install django-crispy-forms
-    ```
-   ```bash
-    pip install django-crispy-forms
    ```
    ```bash
     pip install crispy-bootstrap4
